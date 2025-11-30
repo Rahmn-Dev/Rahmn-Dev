@@ -27,9 +27,9 @@
 <!-- ========================= -->
 <!--       LANGUAGES          -->
 <!-- ========================= -->
-<h5 align="center">Languages</h5>
+<h5 align="center">Programming Languages</h5>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,javascript,php&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,php&theme=light" />
 </p>
 
 <!-- ========================= -->
@@ -37,7 +37,7 @@
 <!-- ========================= -->
 <h5 align="center">Frontend Development</h5>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nextjs,react,html,css,bootstrap,jquery&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vue,nextjs,react,html,css,bootstrap,jquery,javascript&theme=light" />
 </p>
 
 <!-- ========================= -->
@@ -90,4 +90,13 @@
 <h4 align="center">Activity Graph</h4>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmn-dev&theme=github-compact&radius=8&hide_border=true" />
+</p>
+
+<h4 align="center">Web Showcase</h4>
+
+<p align="center">
+  <a href="https://rahmn.tech/">
+    <img src="img/web.png" 
+         alt="Creative Preview" width="1200" style="border-radius: 16px;">
+  </a>
 </p>
