@@ -1,15 +1,60 @@
 ![Header](img/github-header-banner.png)
-<!--
-**Rahmn-Dev/Rahmn-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h4 align="center">Skills</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ========================= -->
+<!--       LANGUAGES          -->
+<!-- ========================= -->
+<h5 align="center">Languages</h5>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,html,css,jquery&theme=light" />
+</p>
+
+<!-- ========================= -->
+<!--       FRONTEND           -->
+<!-- ========================= -->
+<h5 align="center">Frontend Development</h5>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,nextjs,bootstrap&theme=light" />
+</p>
+
+<!-- ========================= -->
+<!--       BACKEND            -->
+<!-- ========================= -->
+<h5 align="center">Backend Development</h5>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,dotnet,nodejs&theme=light" />
+</p>
+
+
+<!-- ========================= -->
+<!--       CLOUD / DEVOPS     -->
+<!-- ========================= -->
+<h5 align="center">Cloud & DevOps</h5>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,cloudflare&theme=light" />
+</p>
+
+<!-- ========================= -->
+<!--       DATABASES          -->
+<!-- ========================= -->
+<h5 align="center">Databases</h5>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,elasticsearch,firebase,sqlite&theme=light" />
+</p>
+
+<!-- ========================= -->
+<!--       AI / MACHINE LEARNING -->
+<!-- ========================= -->
+<h5 align="center">AI & Machine Learning</h5>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=anaconda,sklearn&theme=light" />
+</p>
+
+<!-- ========================= -->
+<!--       TOOLS & DESIGN     -->
+<!-- ========================= -->
+<h5 align="center">Tools & Design</h5>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,figma,ps,xd,blender,arduino&theme=light" />
+</p>
