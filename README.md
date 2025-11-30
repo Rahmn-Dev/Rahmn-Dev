@@ -7,7 +7,7 @@
 <!-- ========================= -->
 <h5 align="center">Languages</h5>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,html,css,jquery&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,javascript,php&theme=light" />
 </p>
 
 <!-- ========================= -->
@@ -15,7 +15,7 @@
 <!-- ========================= -->
 <h5 align="center">Frontend Development</h5>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nextjs,bootstrap&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vue,nextjs,react,html,css,bootstrap,jquery&theme=light" />
 </p>
 
 <!-- ========================= -->
@@ -32,7 +32,7 @@
 <!-- ========================= -->
 <h5 align="center">Cloud & DevOps</h5>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,cloudflare&theme=light" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,cloudflare,vercel&theme=light" />
 </p>
 
 <!-- ========================= -->
@@ -48,7 +48,7 @@
 <!-- ========================= -->
 <h5 align="center">AI & Machine Learning</h5>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,sklearn&theme=light" />
+  <img src="https://skillicons.dev/icons?i=anaconda,pytorch,sklearn&theme=light" />
 </p>
 
 <!-- ========================= -->
@@ -56,5 +56,5 @@
 <!-- ========================= -->
 <h5 align="center">Tools & Design</h5>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,ps,xd,blender,arduino&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,figma,ps,ai,xd,blender,arduino&theme=light" />
 </p>
